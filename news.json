@@ -1,3 +1,12 @@
 [
-  { "tag": {"ru":"Обновление","en":"Update"}, "title": {"ru":"Magma 1.5 вышла","en":"Magma 1.5 is out"}, "desc": {"ru":"...","en":"..."} }
+  {
+    "tag": { "ru": "Обновление", "en": "Update" },
+    "title": { "ru": "MagmaLauncher 1.5 вышла", "en": "MagmaLauncher 1.5 is out" },
+    "desc": { "ru": "Что нового в этой версии.", "en": "What's new in this release." }
+  },
+  {
+    "tag": { "ru": "Сборка", "en": "Instance" },
+    "title": { "ru": "...", "en": "..." },
+    "desc": { "ru": "...", "en": "..." }
+  }
 ]

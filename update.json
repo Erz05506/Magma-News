@@ -1,1 +1,5 @@
-{ "version": "1.5.0", "url": "https://github.com/you/repo/releases/download/v1.5.0/MagmaLauncher.exe", "notes": "..." }
+{
+  "version": "1.5.0",
+  "url": "https://github.com/Erz05506/MagmaLauncher/releases/download/v1.5.0/MagmaLauncher.exe",
+  "notes": "Что нового в этой версии"
+}
